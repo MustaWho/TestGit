@@ -1,6 +1,6 @@
 # Hello, World!
 
-New string
+New string 😒
 
 $ git config --global user.name "MustaWho"
 $ git config --global user.email "fiq2000fiq@gmail.com"
